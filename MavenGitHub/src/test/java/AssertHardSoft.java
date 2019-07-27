@@ -36,6 +36,7 @@ public class AssertHardSoft {
 		a.assertEquals(Title, "Google1");
 		a.assertEquals(true, true);
 		System.out.println("hinal is good girl");
+		System.out.println("hinal is enjoying the fresh air");
 		a.assertAll();
 	}
 	@AfterClass
